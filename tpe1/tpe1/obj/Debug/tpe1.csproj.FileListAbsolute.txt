@@ -1,0 +1,10 @@
+C:\Users\belom\source\repos\tpe1\tpe1\bin\Debug\tpe1.exe.config
+C:\Users\belom\source\repos\tpe1\tpe1\bin\Debug\tpe1.exe
+C:\Users\belom\source\repos\tpe1\tpe1\bin\Debug\tpe1.pdb
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.csprojResolveAssemblyReference.cache
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.Properties.Resources.resources
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.csproj.GenerateResource.cache
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.csproj.CoreCompileInputs.cache
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.exe
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.pdb
+C:\Users\belom\source\repos\tpe1\tpe1\obj\Debug\tpe1.Form1.resources
